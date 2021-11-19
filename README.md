@@ -1,4 +1,4 @@
-### Hi there 👋
+### 25살 코린이 👋
 
 <!--
 **chaehyuenwoo/chaehyuenwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
