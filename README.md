@@ -16,9 +16,3 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaehyuenwoo)](https://github.com/chaehyuenwoo/github-readme-stats)
 
-/*<h3 align="center">🛠 TECH STACK 🛠</h3>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-b2e619?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/R-90d5eb?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/MongoDB-32cd32?style=flat-square&logo=mongoDB&logoColor=white"/></a>&nbsp*/
