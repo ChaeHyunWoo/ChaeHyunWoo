@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaehyuenwoo&count_bg=%230EB8E3&title_bg=%230234D7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</br>
 ## Hi there 👋
 ### Hello, I'm Hyuen Woo Chae! 
 I am dreaming of a new experience as a `Backend-Developer`<br><br>
@@ -6,7 +8,7 @@ I'm interested in `Web`, `cloud`, `techs`<br><br>
 Looking forward to your contact!<br><br>
 --!>
 <div align="center">
-<b>tech stack<b></br>
+<b>Tech Stack<b></br>
 <!-- 언어 --!>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
