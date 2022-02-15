@@ -43,11 +43,9 @@ Looking forward to your contact!<br><br>
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chaehyuenwoo&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=chaehyuenwoo&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" align="left" style="width: 100%" />
 </td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaehyuenwoo&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaehyuenwoo&hide_border=true&layout=compact&theme=midnight-purple&langs_count=10" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
