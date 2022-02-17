@@ -10,6 +10,7 @@ Looking forward to your contact!<br><br>
 <div align="center">
 <b>💪 Tech Stack 💪<b></br>
 <!-- 언어 --!>
+</br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -30,6 +31,7 @@ Looking forward to your contact!<br><br>
 </br>
 <!-- 툴 --!>
 <b>💪 Tools 💪<b></br>
+</br>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
