@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=30A9DE&height=280&section=header&text=Hyuen woo%20Chae :)&fontSize=80&animation=twinkling&fontAlignY=45" />    
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaehyuenwoo&count_bg=%230EB8E3&title_bg=%230234D7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </br>
 ## Hi there 👋
@@ -23,6 +27,9 @@ Looking forward to your contact!<br><br>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat-square&logo=Spring boot&logoColor=white"/>
 <!-- <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/> --!>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+
 </br>
 <!--DB & 협업툴 --!>
 <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=OracleDB&logoColor=white"/>
