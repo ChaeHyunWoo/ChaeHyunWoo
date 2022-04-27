@@ -4,15 +4,31 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaehyuenwoo&count_bg=%230EB8E3&title_bg=%230234D7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </br>
-## Hi there 👋
+## 👋 Hi there 👋
 ### Hello, I'm Hyuen Woo Chae! 
 I am dreaming of a new experience as a `Backend-Developer`<br><br>
 <!--
 I'm interested in `Web`, `cloud`, `techs`<br><br>
 Looking forward to your contact!<br><br>
 --!>
+
+<b>😀 About Me 😀<b>
+</br></br>
+ <a href="https://irradiated-leaf-009.notion.site/3f75357afde740ed8a8842933fd7db1f">
+    <img 
+        src="http://img.shields.io/badge/-Notion_portfolio-222222?style=flat&logo=Notion&link=https://irradiated-leaf-009.notion.site/3f75357afde740ed8a8842933fd7db1f"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://backendcode.tistory.com/">
+    <img
+        src="http://img.shields.io/badge/-Velog_blog-222222?style=flat&logo=Vector Logo Zone&link=https://backendcode.tistory.com/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+</br>
+</br>
+
 <div align="center">
-<b>💪 Tech Stack 💪<b></br>
+<b>💻 Tech Stack 💻<b></br>
 <!-- 언어 --!>
 </br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -39,7 +55,7 @@ Looking forward to your contact!<br><br>
 </br>
 <!-- 툴 --!>
 </br>
-<b>💪 Tools 💪<b></br>
+<b>🛠️ Tools 🛠️<b></br>
 </br>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
