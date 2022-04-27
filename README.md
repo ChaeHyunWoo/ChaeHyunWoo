@@ -21,7 +21,7 @@ Looking forward to your contact!<br><br>
 </a>
 <a href="https://backendcode.tistory.com/">
     <img
-        src="http://img.shields.io/badge/-Velog_blog-222222?style=flat&logo=Vector Logo Zone&link=https://backendcode.tistory.com/"
+        src="http://img.shields.io/badge/-Tech_blog-222222?style=flat&logo=Vector Logo Zone&link=https://backendcode.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </br>
