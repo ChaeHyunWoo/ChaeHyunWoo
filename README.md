@@ -7,7 +7,7 @@ I'm experienced with a wide range of back-end technologies, specialized primaril
 
 ### Profile
 Name : 채현우 (ChaeHyunWoo) <br/>
-Email : hwcotton@nate.com <br/>
+Email : hwcotton@gmail.com <br/>
 Tech Blog : [무작정 개발](https://backendcode.tistory.com/) <br/>
 
 ## Tech Skills :
