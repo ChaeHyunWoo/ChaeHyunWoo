@@ -9,30 +9,3 @@ I'm experienced with a wide range of back-end technologies, specialized primaril
 Name : 채현우 (ChaeHyunWoo) <br/>
 Email : hwcotton@gmail.com <br/>
 Tech Blog : [무작정 개발](https://backendcode.tistory.com/) <br/>
-
-## Tech Skills :
-### Back-End
-- `Java`
-- `Spring` `Spring boot`
-- `JPA` `MyBatis`
-- `ElasticSearch`
-
-### Front-End
-- `HTML` `CSS`
-- `JavaScript`
-- `React`
-
-### DBMS
-- `Oracle`
-- `MySql`
-- `MariaDB`
-
-### DevOps
-- `AWS EC2`
-
-### Tools & Collaborations
-- `IntelliJ IDEA` `STS` `VsCode`
-- `Git`, `GitHub`, `GitLab`
-- `Jira`, `Slack`, `Notion`
-
-<br/>
